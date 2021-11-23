@@ -1,0 +1,2 @@
+advinhacao.exe
+forca.exe
